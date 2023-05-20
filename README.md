@@ -61,10 +61,6 @@ prompt = "How does the value vary across different categories?"
 generate_graph(data, prompt, style="whitegrid", size=(6, 4))
 ```
 
-## Download and Popularity
-
-The seabornai package has been downloaded approximately X times per month. Thank you for your support!
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
